@@ -8,22 +8,22 @@ function Projects() {
       title: "CollabSketch",
       description: "A full-featured e-commerce website with product listings, a shopping cart, and a checkout process. Built with the MERN stack.",
       tags: ["React", "Node.js", "Express", "MongoDB"],
-      liveUrl: "#", // Link to the live demo
-      repoUrl: "#"  // Link to the GitHub repo
+      liveUrl: "https://collabsketch-lhw2.onrender.com", // Link to the live demo
+      repoUrl: "https://github.com/Artham001/CollabSketch"  // Link to the GitHub repo
     },
     {
-      title: "Task Management App",
-      description: "A responsive Trello-like task board with drag-and-drop functionality to organize tasks and workflows efficiently.",
+      title: "BookMarking API service",
+      description: "A secure, multi-user bookmarking API with user authentication and a dedicated PostgreSQL database.",
       tags: ["React", "TypeScript", "Tailwind CSS"],
-      liveUrl: "#",
-      repoUrl: "#"
+      liveUrl: "https://bookmarking-app.onrender.com",
+      repoUrl: "https://github.com/Artham001/Bookmarking-API"
     },
     {
       title: "This Portfolio Website",
       description: "A responsive portfolio website built from scratch to showcase my skills and projects, made with React and Tailwind CSS.",
       tags: ["React", "Tailwind CSS", "Vite"],
-      liveUrl: "#",
-      repoUrl: "#"
+      liveUrl: "https://artham.netlify.app/",
+      repoUrl: "https://github.com/Artham001/React-Portfolio"
     }
   ];
 
