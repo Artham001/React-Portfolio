@@ -14,7 +14,7 @@ function Projects() {
     {
       title: "BookMarking API service",
       description: "A secure, multi-user bookmarking API with user authentication and a dedicated PostgreSQL database.",
-      tags: ["React", "TypeScript", "Tailwind CSS"],
+      tags: ["JavaScript", "Postgres", "Tailwind CSS","Node.js","Express"],
       liveUrl: "https://bookmarking-app.onrender.com",
       repoUrl: "https://github.com/Artham001/Bookmarking-API"
     },
