@@ -10,7 +10,7 @@ function Contact() {
           I'm currently open to new opportunities and collaborations. Feel free to reach out!
         </p>
         <a 
-          href="mailto:arham.bhati@gmail.com" 
+          href="mailto:artham.1503@gmail.com" 
           className="inline-block bg-indigo-600 text-white font-bold py-4 px-8 rounded-lg hover:bg-indigo-700 transition-transform transform hover:scale-105"
         >
            <Mail className="inline-block mr-2" /> Say Hello

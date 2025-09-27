@@ -6,8 +6,8 @@ function Projects() {
   const projectsList = [
     {
       title: "CollabSketch",
-      description: "A full-featured e-commerce website with product listings, a shopping cart, and a checkout process. Built with the MERN stack.",
-      tags: ["React", "Node.js", "Express", "MongoDB"],
+      description: "An interactive web application that allows multiple users to draw and chat together in real time.",
+      tags: ["JavaScript", "Node.js", "Express", "MongoDB","WebSockets"],
       liveUrl: "https://collabsketch-lhw2.onrender.com", // Link to the live demo
       repoUrl: "https://github.com/Artham001/CollabSketch"  // Link to the GitHub repo
     },
