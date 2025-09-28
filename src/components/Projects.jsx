@@ -25,6 +25,13 @@ function Projects() {
       liveUrl: "https://artham.netlify.app/",
       repoUrl: "https://github.com/Artham001/React-Portfolio"
     }
+    {
+      title: "Rate Limiter Middleware using Redis",
+      description: "Custom middleware that uses a high-speed Redis database to enforce rate limiting on incoming user requests by tracking user IP addresses and enforcing request limits",
+      tags: ["Node.js", "Redis", "JavaScript","Express","Tailwind CSS"],
+      liveUrl: "https://rate-limiter.netlify.app/",
+      repoUrl: "https://github.com/Artham001/Rate-Limiter-Middleware"
+    }
   ];
 
   return (
