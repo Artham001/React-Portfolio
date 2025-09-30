@@ -35,7 +35,7 @@ function Projects() {
     {
       title: "Serverless URL-Shortener",
       description: "A serverless URL shortener built on Google Cloud which uses a Node.js function and Firestore to generate short links that redirect to the original long URL.",
-      tags: ["Node.js", "R", "JavaScript","Express","Tailwind CSS"],
+      tags: ["Google Cloud Platform (GCP)", "Google Cloud Functions", "Google Cloud Firestore","Node.js","Tailwind CSS"],
       liveUrl: "https://serverless-url-shortener-onhjij5fx-artham1503-6988s-projects.vercel.app/",
       repoUrl: "https://github.com/Artham001/ServerLess-URL-Shortener"
     }
