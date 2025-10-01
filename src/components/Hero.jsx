@@ -3,7 +3,7 @@ import ShootingStars from './ShootingStars.jsx';
 
 function Hero() {
   return (
-    // The main section is now just a positioning container.
+    // The main section is a positioning container.
     <section className="relative min-h-screen flex items-center justify-center text-center overflow-hidden">
       
       {/* 1. Dedicated Background Container */}
