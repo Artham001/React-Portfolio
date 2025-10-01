@@ -1,9 +1,20 @@
-// src/components/Hero.jsx
+// Import the animation component
+import ShootingStars from './ShootingStars.jsx';
 
 function Hero() {
   return (
-    <section className="bg-gray-900 text-white min-h-screen flex items-center justify-center text-center">
-      <div>
+    // The main section is now just a positioning container.
+    <section className="relative min-h-screen flex items-center justify-center text-center overflow-hidden">
+      
+      {/* 1. Dedicated Background Container */}
+      {/* This div is positioned absolutely to fill the section. It holds BOTH the dark background color and the animation canvas. */}
+      <div className="absolute top-0 left-0 w-full h-full bg-gray-900 z-0">
+        <ShootingStars />
+      </div>
+      
+      {/* 2. Foreground Content Container */}
+      {/* This div has a higher z-index to ensure it sits on top of the background. */}
+      <div className="relative z-10 text-white"> 
         <h1 className="text-5xl md:text-7xl font-extrabold mb-4">
           Hello, I'm <span className="text-indigo-400">Artham Bhati</span>
         </h1>
