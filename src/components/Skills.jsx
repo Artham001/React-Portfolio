@@ -11,7 +11,7 @@ function Skills() {
     { name: "HTML5 & CSS3" },
     { name: "Git & GitHub" },
     { name: "Java" },
-    { name: "PostgreSQl" },
+    { name: "PostgreSQL" },
     { name: "MongoDB" },
     { name: "GCP" },
     { name: "Docker" },
